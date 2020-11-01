@@ -47,8 +47,8 @@ echo "Installation of network software"
 ###############################################################################
 
 list=(
-avahi
-nss-mdns
+#avahi
+#nss-mdns
 gvfs-smb
 )
 

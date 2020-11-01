@@ -88,7 +88,7 @@ func_category Graphics
 
 list=(
 gimp
-inkscape
+#inkscape
 nomacs
 )
 
@@ -104,8 +104,8 @@ done
 func_category Internet
 
 list=(
-chromium
-qbittorrent
+#chromium
+#qbittorrent
 )
 
 count=0
@@ -120,7 +120,7 @@ done
 func_category Multimedia
 
 list=(
-vlc
+#vlc
 )
 
 count=0
@@ -166,15 +166,16 @@ done
 func_category Unpack
 
 list=(
-unace
+#unace
 unrar
 zip
 unzip
 sharutils
 uudeview
-arj
+#arj #last used 1998 to split 1 mp3 to 3 floppies
 cabextract
 file-roller
+p7zip
 )
 
 count=0

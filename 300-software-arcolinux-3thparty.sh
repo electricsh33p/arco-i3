@@ -55,7 +55,7 @@ func_category() {
 func_category Accessories
 
 list=(
-mintstick-git
+#mintstick-git
 )
 
 count=0
@@ -86,9 +86,9 @@ done
 func_category System
 
 list=(
-downgrade
-inxi
-pamac-aur
+#downgrade
+#inxi
+#pamac-aur
 )
 
 count=0

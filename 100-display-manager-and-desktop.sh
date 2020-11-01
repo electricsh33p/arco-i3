@@ -66,6 +66,8 @@ arcolinux-i3wm-git
 arcolinux-config-i3wm-git
 arcolinux-i3wm-dconf-git
 arcolinux-logout-git
+xorg-server
+xorg-apps
 )
 
 count=0

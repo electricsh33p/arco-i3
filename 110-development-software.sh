@@ -52,7 +52,7 @@ sublime-text-dev
 flameshot
 meld
 the_platinum_searcher-bin
-telegram-desktop
+#telegram-desktop
 discord
 simplescreenrecorder
 scrot
